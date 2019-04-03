@@ -1,2 +1,2 @@
-# Project-ComProG
-ComPrograming for Project Game
+# Tavern mania Adventure
+            ComPrograming for Project Game
