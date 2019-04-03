@@ -10,4 +10,4 @@
             ก็ต่อเมื่อสามารถ ปลดหนี้ได้สําเร็จและผู้เล่นสามารถสามารถ บริหารทรัพยากรที่มีอยู่ในเกมได้ต่อไป
 
 
-           [![vH7Ss8.png](https://i.postimg.cc/MTC7j5H2/vH7Ss8.png)](https://postimg.cc/tZzZKhF2)
+  [![vH7Ss8.png](https://i.postimg.cc/MTC7j5H2/vH7Ss8.png)](https://postimg.cc/tZzZKhF2)
