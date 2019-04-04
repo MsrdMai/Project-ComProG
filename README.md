@@ -12,8 +12,10 @@
 
   [![vH7Ss8.png](https://i.postimg.cc/MTC7j5H2/vH7Ss8.png)](https://postimg.cc/tZzZKhF2)
   
-  #### Member 🎬👩‍👩‍👧
- 1️⃣  P 61070162
- 2️⃣  S 61070244
- 3️⃣  O 61070261
+## Member 🎬👩‍👩‍👧
+###Pawatchaya Kitsereekul 61070162
+
+###Sirilada Sonsomboon 61070244
+
+###Oranit Kiripitak 61070261
   
