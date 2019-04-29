@@ -18,7 +18,7 @@
 
 
 🥇<b> Pawatchaya Kitsereekul  ID:        61070162   </b>   
-🥈<b> Sirilada Sonsomboon     ID:        61070244</b>
-🥉<b> Oranit Kiripitak        ID:        61070261 </b>
+🥈<b> Sirilada Sonsomboon     ID:        61070244   </b>
+🥉<b> Oranit Kiripitak        ID:        61070261   </b>
 
 
