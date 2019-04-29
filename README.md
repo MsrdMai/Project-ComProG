@@ -14,12 +14,15 @@
   
 ## Member 🎬👩‍👩‍👧
 
-<a href='https://postimg.cc/nMWzq7wg' target='_blank'><img src='https://i.postimg.cc/nMWzq7wg/49896078-2258504930861106-5806953091664183296-o.jpg' border='0' alt='49896078-2258504930861106-5806953091664183296-o'/></a>       <b> Pawatchaya Kitsereekul ID:61070162   </b> 
+<a href='https://postimg.cc/nMWzq7wg' target='_blank'><img src='https://i.postimg.cc/nMWzq7wg/49896078-2258504930861106-5806953091664183296-o.jpg' border='0' alt='49896078-2258504930861106-5806953091664183296-o'/></a>     
+<b> Pawatchaya Kitsereekul ID:61070162   </b> 
 
 
-<a href='https://postimg.cc/K4VG1M9z' target='_blank'><img src='https://i.postimg.cc/K4VG1M9z/1525771721144.jpg' border='0' alt='1525771721144'/></a>   <b>   Sirilada Sonsomboon ID:61070244</b>
+<a href='https://postimg.cc/K4VG1M9z' target='_blank'><img src='https://i.postimg.cc/K4VG1M9z/1525771721144.jpg' border='0' alt='1525771721144'/></a>   
+<b>   Sirilada Sonsomboon ID:61070244</b>
 
 
-<b> Oranit Kiripitak ID:61070261 </b>
 
 <a href='https://postimg.cc/V5nTFP7w' target='_blank'><img src='https://i.postimg.cc/V5nTFP7w/wdwdw.png' border='0' alt='wdwdw'/></a>
+
+<b> Oranit Kiripitak ID:61070261 </b>
