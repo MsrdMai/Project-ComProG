@@ -14,7 +14,7 @@
   
 ## Member 🎬👩‍👩‍👧
 #Pawatchaya Kitsereekul 61070162
-[![49896078-2258504930861106-5806953091664183296-o.jpg](https://i.postimg.cc/tCqxQNdq/49896078-2258504930861106-5806953091664183296-o.jpg)](https://postimg.cc/nMWzq7wg)
+<a href='https://postimg.cc/nMWzq7wg' target='_blank'><img src='https://i.postimg.cc/nMWzq7wg/49896078-2258504930861106-5806953091664183296-o.jpg' border='0' alt='49896078-2258504930861106-5806953091664183296-o'/></a>
 
 #Sirilada Sonsomboon 61070244
 
