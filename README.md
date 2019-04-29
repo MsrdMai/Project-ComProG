@@ -19,4 +19,3 @@
 
 ###Oranit Kiripitak 61070261
   
-[![59467880-1659943787442250-178510901089927168-n.png](https://i.postimg.cc/MTV2ZRSt/59467880-1659943787442250-178510901089927168-n.png)](https://postimg.cc/yg1rvDWS)
