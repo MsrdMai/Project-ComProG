@@ -21,5 +21,6 @@
 #Sirilada Sonsomboon 61070244
 
 #Oranit Kiripitak 61070261
-  
-[url=https://postimg.cc/V5nTFP7w][img]https://i.postimg.cc/V5nTFP7w/wdwdw.png[/img][/url]
+ 
+
+<a href='https://postimg.cc/V5nTFP7w' target='_blank'><img src='https://i.postimg.cc/V5nTFP7w/wdwdw.png' border='0' alt='wdwdw'/></a>
