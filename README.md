@@ -11,7 +11,7 @@
             ก็ต่อเมื่อสามารถ ปลดหนี้ได้สําเร็จและผู้เล่นสามารถสามารถ บริหารทรัพยากรที่มีอยู่ในเกมได้ต่อไป
 
 
-[![New-Project-1.jpg](https://i.postimg.cc/pXrHtKZn/New-Project-1.jpg)](https://postimg.cc/23sJQbgz)  
+          [![New-Project-1.jpg](https://i.postimg.cc/pXrHtKZn/New-Project-1.jpg)](https://postimg.cc/23sJQbgz)  
 ### Development Time ⏰
 Start : 12th March 2019 <br>
 Status : Complete
