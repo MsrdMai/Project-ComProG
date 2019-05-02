@@ -36,6 +36,6 @@ Status : Complete
 🥉<b> Oranit Kiripitak        ID:        61070261   </b>
 
 ## Adviser
-นาย...
+
 From Department of Computer Engineering ,Faculty of Engineering , King Mongkut's Institute of Technology Ladkrabang
 
