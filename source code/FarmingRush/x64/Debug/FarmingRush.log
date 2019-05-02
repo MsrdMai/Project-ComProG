@@ -1,0 +1,74 @@
+﻿  Animation.cpp
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\animation.cpp(23): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\animation.cpp(24): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\animation.cpp(38): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\animation.cpp(39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Collision.cpp
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\collision.cpp(70): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\collision.cpp(71): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\collision.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\collision.cpp(74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\collision.cpp(136): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\collision.cpp(137): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\collision.cpp(138): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Inventory.cpp
+  main.cpp
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\main.cpp(371): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Plant.cpp
+  Platform.cpp
+  Player.cpp
+  State.cpp
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\state.cpp(15): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\state.cpp(25): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\tear\documents\github\project-comprog\source code\farmingrush\state.cpp(54): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  TextDisplay.cpp
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
