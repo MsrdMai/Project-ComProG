@@ -18,7 +18,8 @@ Made by SFML
 
 Start : 12th March 2019 <br>
 Status : Complete
-Link for Downloade : https://drive.google.com/open?id=1OFQ-H0t8JADAdMHG9vb3-dbhw7JgpmZh
+
+Link for Download : https://drive.google.com/open?id=1OFQ-H0t8JADAdMHG9vb3-dbhw7JgpmZh
 
 ### Information 🍂
 
